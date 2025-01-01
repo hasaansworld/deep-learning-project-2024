@@ -7,7 +7,8 @@ A deep learning project for automated detection and grading of diabetic retinopa
 
 ## Checkpoints
 
-Model checkpoints (.pth) are available in the results folder.
+Due to github not allowing 100mb file uploads, model checkpoints (.pth) are available in the results folder in the following shared folder:
+https://unioulu-my.sharepoint.com/:f:/g/personal/mshafiq24_student_oulu_fi/EkyKhcCwUmtGveaJDzrTJwYBpbq0xZp5zmN9eTAZI-Lt1w?e=LFJqfB
 
 ## Results
 
