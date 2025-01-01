@@ -7,7 +7,7 @@ A deep learning project for automated detection and grading of diabetic retinopa
 
 ## Checkpoints
 
-Due to github not allowing 100mb file uploads, model checkpoints (.pth) are available in the results folder in the following shared folder:
+Due to github not allowing 100mb file uploads, model checkpoints (.pth) are available in the following shared folder:
 https://unioulu-my.sharepoint.com/:f:/g/personal/mshafiq24_student_oulu_fi/EkyKhcCwUmtGveaJDzrTJwYBpbq0xZp5zmN9eTAZI-Lt1w?e=LFJqfB
 
 ## Results
@@ -32,7 +32,7 @@ The project is divided into different parts, each focusing on specific aspects o
 
 ## Running the Code
 
-Each part can be run independently. For example:
+First, activate the virtual environment from the venv folder. Then, each part can be run independently. For example:
 
 ```python
 python part_a.py  # Run the initial fine-tuning
